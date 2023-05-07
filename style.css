@@ -1,0 +1,31 @@
+body{
+    background-color: #ddd;
+}
+
+.vp{
+    padding-top: 50px;
+    width: 100%;
+    text-align: center;
+}
+
+#cor{
+    text-shadow: -3px -3px 0 #000, 3px -3px 0 #000, -3px 3px 0 #000, 3px 3px 0 #000;
+    font-size: 100px;
+    font-weight: 600;
+    color: white;
+    font-family: 'Comic Sans MS';
+}
+
+#botao{
+    width: 140px;
+    height: 60px;
+    border: 0;
+    border-radius: 3px;
+    background-color: purple;
+    color: white;
+    font-size: 20px;
+}
+
+#botao:hover{
+    cursor: pointer;
+}
